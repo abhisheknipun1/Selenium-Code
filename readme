@@ -6,3 +6,9 @@ Run the following commands for doing above pre-requisite :-
   $ sudo apt-get install webdriver
   $ sudo apt-get install selenium-webdriver
   $ sudo apt-get install geekodriver
+
+
+Now, test your all selenium script one by one by giving command as :- 
+
+  cd $ inside selenium folde
+     $ node filename.js(selenium file name) 
