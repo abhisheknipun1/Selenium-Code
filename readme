@@ -1,0 +1,8 @@
+Before Running all the Selenium Script, we have to download selenium webdriver, geekodriver(for firefox) and webdriver inside the folder
+where all the selenium codes are present.
+
+Run the following commands for doing above pre-requisite :-
+  $ sudo apt-get update
+  $ sudo apt-get install webdriver
+  $ sudo apt-get install selenium-webdriver
+  $ sudo apt-get install geekodriver
